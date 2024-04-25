@@ -1,0 +1,88 @@
+body{
+    font-family: inter;
+    margin: 0px;
+    padding: 0px;
+}
+#div-links a {
+    text-decoration: none;
+    font-size: auto;
+    font-family: Inter;
+    padding: 0%;
+    
+}
+
+#h1TextMeio {
+    font-size: 200%;
+    margin-top: 13%;
+    line-height: 1;
+    font-family: Inter;
+    font-weight: 750;
+    text-align: justify;
+}
+
+#formulario{
+margin-top: 15%;
+width: 450px;
+}
+
+#divForm {
+    height: 500px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    font-family: Inter;
+}
+
+#divForm label {
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 16px;
+    color: black;
+    font-weight: 500;
+}
+
+#divForm input {
+    background: #F2F2F2E5;
+}
+
+button {
+    width: 450px;
+    transform: translateY(-7px);
+    
+}
+
+button:hover{
+    box-shadow: 5px 10px 5px burlywood;
+}
+
+#resultado{
+    padding-left: 20%;
+    margin-top: 1%;
+    
+
+    
+}
+
+footer {
+text-align: end;
+padding-right: 3%;
+margin-top: 2%;
+height: 50px;
+padding-top: 1%;
+}
+
+#divLogradouro{
+    width: 600px;
+    
+}
+#divResultado{
+    width: 600px;
+    margin-top: -15px;    
+}
+
