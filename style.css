@@ -85,4 +85,27 @@ padding-top: 1%;
     width: 600px;
     margin-top: -15px;    
 }
+@media (max-width: 768px) {
+    #h1TextMeio {
+        margin-top: 5%;
+        font-size: 1.5rem;
+    }
+
+    #divForm {
+        padding: 1rem;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    #resultado {
+        padding-left: 0;
+    }
+
+    #divLogradouro,
+    #divResultado {
+        width: 100%;
+    }
+}
 
